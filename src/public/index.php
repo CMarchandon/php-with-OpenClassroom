@@ -1,4 +1,12 @@
-<?php
-declare(strict_types=1);
-
-echo 'Lets try new things';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Php Test</title>
+</head>
+<body>
+    <h1> This is a php test website</h1>
+    
+</body>
+</html>
